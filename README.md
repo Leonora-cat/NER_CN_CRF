@@ -13,3 +13,4 @@ uses CRF to do the Named Entity Recognization(NER) job
 
 ### Result
 
+![image](https://github.com/Leonora-cat/NER_CN_CRF/blob/master/result.png)
