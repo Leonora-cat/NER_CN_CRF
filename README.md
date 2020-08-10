@@ -9,7 +9,7 @@ PeopleDaily 199801
 
 uses BIO mode to tag the dataset
 
-uses CRF to do the Named Entity Recognization(NER) job
+uses CRF to do the Named Entity Recognition(NER) job
 
 ### Result
 
